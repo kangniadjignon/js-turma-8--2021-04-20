@@ -5,3 +5,8 @@ h1 {
 .titulo {
     color: blue;  
 }
+
+
+.campo-invalido {
+    border: solid red 2px;
+}
